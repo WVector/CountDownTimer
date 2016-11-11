@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountDownTimer_Demo</string>
+
+    <string name="time"><font color="red">%d</font> s</string>
+
+    <string name="grader"><Data><![CDATA[<font color="red">%d</font> s]]></Data></string>
+
+</resources>
